@@ -1,0 +1,5 @@
+include CHANGELOG
+include MANIFEST.in
+include README
+recursive-include checklist/templates *
+recursive-include checklist/static *
